@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+    background-color: chocolate;
+}
+.main{
+    background-color: black;
+    color:aliceblue;
+    height: auto;
+    width:270px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align:center;
+    margin:auto;
+}
+.btn
+{
+    height:auto;
+    width:40px;
+    
+}
